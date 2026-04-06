@@ -1,0 +1,17 @@
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/domain/Topic.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/DescSrv.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/config/SecurityConfig.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/web/TopicControl.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/dto/TopicDTO.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/dto/CategoryIdNameDTO.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/service/CategoryService.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/web/CategoriesControl.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/domain/Category.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/web/CategoryControl.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/repository/TopicRepository.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/dto/TopicLiteDTO.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/dto/CategoryDTO.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/utility/Utility.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/repository/CategoryRepository.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/service/TopicService.java
+/Users/antonserdyuchenko/Code/cd_desc/src/main/java/ru/checkdev/desc/web/TopicsControl.java
